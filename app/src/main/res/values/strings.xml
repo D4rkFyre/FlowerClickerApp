@@ -1,0 +1,96 @@
+<resources>
+    <string name="app_name">WrinkleThinkle</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <!-- START Flower Click fragment -->
+    <!-- Strings for image content descriptions -->
+    <string name="trees_bg_blur_description">trees_bg_cd</string>
+    <string name="flower_image_description">flower_image_cd</string>
+
+    <!-- Image buttons descriptions -->
+    <string name="rain_image_button_description">rain_imgBtn_cd</string>
+    <string name="cleaner_image_button_description">cleaner_imgBtn_cd</string>
+    <string name="sun_image_button_description">sun_imgBtn_cd</string>
+    <string name="jar_image_button_description">jar_imgBtn_cd</string>
+    <string name="trophy_image_button_description">trophy_imgBtn_cd</string>
+    <string name="backpack_image_button_description">backpack_imgBtn_cd</string>
+    <string name="house_image_button_description">house_imgBtn_cd</string>
+    <string name="shop_image_button_description">shop_imgBtn_cd</string>
+    <!-- END Flower Click fragment -->
+
+    <!-- START App Start fragment -->
+    <!-- Image content descriptions -->
+    <string name="app_start_background_cd">app_start_bg_cd</string>
+    <string name="go_home_button_cd">go_home_btn_cd</string>
+    <string name="grow_fragment_label">Grow Fragment</string>
+    <string name="app_start_fragment_label">app start frag</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <!-- END App Start fragment -->
+
+    <!-- START AaronsCode fragment_inside_house -->
+    <string name="inside_house_fragmentBGCD">House Background</string>
+    <string name="inside_house_map_button">House map button</string>
+    <string name="inside_house_grow_button">House grow button</string>
+    <string name="inside_house_shop_button">House shop button</string>
+    <string name="inside_house_inventory_button">House inventory button</string>
+
+    <!-- START Perle's code fragment_inventory -->
+    <string name="inventory_grow_button">Inventory grow button</string>
+    <string name="inventory_inventory_button">Inventory inventory button</string>
+    <string name="inventory_shop_button">Inventory shop button</string>
+    <string name="inventory_map_button">Inventory map button</string>
+
+
+    <!-- START Austin's code descriptions -->
+    <string name="map_icon_description">map_imgBtn_cd</string>
+    <string name="grow_icon_description">grow_imgBtn_cd</string>
+    <string name="inventory_icon_description">inventory_imgBtn_cd</string>
+    <string name="shop_icon_description">shop_imgBtn_cd</string>
+    <string name="pricetag_icon_description">pricetag_img_cd</string>
+    <string name="seeds_icon_description">seeds_imgBtn_cd</string>
+    <string name="shelves_image_description">shelves_img_cd</string>
+    <string name="shop_sign_image_description">shopSign_img_cd</string>
+    <string name="navbar_background_description">navbar_img_cd</string>
+    <string name="coin_image_icon_description">coin_img_cd</string>
+    <string name="fertilizer_image_icon_description">fertilizer_imgBtn_cd</string>
+    <string name="pesticide_image_icon_description">pesticide_imgBtn_cd</string>
+    <string name="item_background_icon_description">itemBackground_img_cd</string>
+    <string name="sell_button_icon_description">sellFlowers_imgBtn_cd</string>
+    <!-- END Austin's code descriptions -->
+
+    <!-- START SignIn and SignUp Fragment strings  -->
+    <string name="SignInFragment">Sign In Fragment\n</string>
+    <string name="sign_in_screen_player_name">Player Name</string>
+    <string name="sign_in_screen_last_name">Last Name</string>
+    <string name="sign_in_sign_in">Sign In</string>
+    <string name="sign_in_screen_need_an_account_text">Need an account?</string>
+    <string name="sign_up_screen_sign_up_text">Sign Up</string>
+
+    <!-- GLOBAL STRINGS -->
+    <string name="hint_text_email">Email</string>
+    <string name="hint_text_password">Password</string>
+    <string name="SignUpFragment">Sign Up Fragment</string>
+    <string name="global_ok">OK</string>
+    <!-- Preference Titles -->
+    <string name="messages_header">Messages</string>
+    <string name="sync_header">Sync</string>
+
+    <!-- Messages Preferences -->
+    <string name="signature_title">Your signature</string>
+    <string name="reply_title">Default reply action</string>
+
+    <!-- Sync Preferences -->
+    <string name="sync_title">Sync email periodically</string>
+    <string name="attachment_title">Download incoming attachments</string>
+    <string name="attachment_summary_on">Automatically download attachments for incoming emails
+    </string>
+    <string name="attachment_summary_off">Only download attachments when manually requested</string>
+
+
+</resources>
